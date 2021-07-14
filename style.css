@@ -16,7 +16,7 @@ nav li {
 }
 
 .overlay nav .collapse ul li a {
-    cursor: hand !important;
+    cursor: pointer !important;
     pointer-events: auto !important;
     /* z-index: 10 !important; */
 }
